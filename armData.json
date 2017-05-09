@@ -19,7 +19,7 @@
     },
     "ブラック・ウロボロス": {
         "element2": "dark",
-        "en": "ブラック・ウロボロス",
+        "en": "Black Ouroboros",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -35,7 +35,7 @@
     },
     "ブルースフィア": {
         "element2": "water",
-        "en": "ブルースフィア",
+        "en": "Blue Sphere",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -51,7 +51,7 @@
     },
     "イイルクーン": {
         "element2": "wind",
-        "en": "Yrkoon",
+        "en": "Yyrkoon",
         "maxlv": 100,
         "skill2": "normalRasetsuM",
         "skill1": "normalCriticalL",
@@ -102,7 +102,7 @@
     "[禁呪]封鍵クラウストルム": {
         "hplv100": "293",
         "element2": "light",
-        "en": "[禁呪]封鍵クラウストルム",
+        "en": "[Skybound] Sealed Claustrum",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "normalL",
@@ -120,7 +120,7 @@
     "[夢幻音]砂城の宮樂弦": {
         "hplv100": "244",
         "element2": "light",
-        "en": "[夢幻音]砂城の宮樂弦",
+        "en": "[Skybound] Sandcastle Song-Lume",
         "maxlv": 150,
         "skill2": "normalHPL",
         "skill1": "non",
@@ -153,7 +153,7 @@
     },
     "麒麟弓": {
         "element2": "dark",
-        "en": "麒麟弓",
+        "en": "Qilin Bow",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalBoukunLLL",
@@ -201,7 +201,7 @@
     },
     "黄龍拳": {
         "element2": "light",
-        "en": "黄龍拳",
+        "en": "Huanglong Gauntlet",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -249,7 +249,7 @@
     },
     "メタルハンド": {
         "element2": "water",
-        "en": "メタルハンド",
+        "en": "Metal Hand",
         "maxlv": 100,
         "skill2": "normalCriticalS",
         "skill1": "normalBoukunL",
@@ -265,7 +265,7 @@
     },
     "[闇鏡刃]パラゾニウム": {
         "element2": "dark",
-        "en": "[闇鏡刃]パラゾニウム",
+        "en": "Parazonium",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -333,7 +333,7 @@
     },
     "ソード・オブ・ミカエル(SSR)": {
         "element2": "fire",
-        "en": "Sword of Michael",
+        "en": "Sword of Michael (SSR)",
         "maxlv": 100,
         "skill2": "normalKamui",
         "skill1": "tenshiShukufukuII",
@@ -349,7 +349,7 @@
     },
     "ワンド・オブ・ガブリエル(SSR)": {
         "element2": "water",
-        "en": "ワンド・オブ・ガブリエル(SSR)",
+        "en": "Wand of Gabriel (SSR)",
         "maxlv": 100,
         "skill2": "normalKamui",
         "skill1": "tenshiShukufukuII",
@@ -365,7 +365,7 @@
     },
     "グローブ・オブ・ウリエル(SSR)": {
         "element2": "earth",
-        "en": "Gauntlet of Uriel",
+        "en": "Gauntlet of Uriel (SSR)",
         "maxlv": 100,
         "skill2": "normalKamui",
         "skill1": "tenshiShukufukuII",
@@ -381,7 +381,7 @@
     },
     "リング・オブ・ラファエル(SSR)": {
         "element2": "wind",
-        "en": "Ring of Raphael",
+        "en": "Ring of Raphael (SSR)",
         "maxlv": 100,
         "skill2": "normalKamui",
         "skill1": "tenshiShukufukuII",
@@ -429,7 +429,7 @@
     },
     "ローズクリスタルワンド": {
         "element2": "fire",
-        "en": "ローズクリスタルワンド",
+        "en": "Rose Crystal Wand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -462,7 +462,7 @@
     "六道・裁考天の鳴弦": {
         "hplv100": "219",
         "element2": "earth",
-        "en": "六道・裁考天の鳴弦",
+        "en": "Xeno Judgement Lyre",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "strengthLL",
@@ -480,7 +480,7 @@
     "真・裁考天の鳴弦": {
         "hplv100": "219",
         "element2": "earth",
-        "en": "真・裁考天の鳴弦",
+        "en": "True Judgement Lyre",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "strengthLL",
@@ -497,7 +497,7 @@
     },
     "[精霊弓]白銀の弓": {
         "element2": "wind",
-        "en": "[精霊弓]白銀の弓",
+        "en": "Silver Bow",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -513,7 +513,7 @@
     },
     "[縫動友]ルナのおともだち": {
         "element2": "dark",
-        "en": "[縫動友]ルナのおともだち",
+        "en": "Luna's Friend",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -545,7 +545,7 @@
     },
     "星屑の聖杖": {
         "element2": "water",
-        "en": "星屑の聖杖",
+        "en": "Stardust Holly Rod",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -614,7 +614,7 @@
     "六道・灼滅天の刃鎌": {
         "hplv100": "170",
         "element2": "fire",
-        "en": "六道・灼滅天の刃鎌",
+        "en": "Xeno Infernal Flamescythe",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "strengthLL",
@@ -632,7 +632,7 @@
     "真・灼滅天の刃鎌": {
         "hplv100": "170",
         "element2": "fire",
-        "en": "真・灼滅天の刃鎌",
+        "en": "True Infernal Flamescythe",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "strengthLL",
@@ -649,7 +649,7 @@
     },
     "インフェルノリークス": {
         "element2": "fire",
-        "en": "インフェルノリークス",
+        "en": "Forbidden Inferno",
         "maxlv": 100,
         "skill2": "normalS",
         "skill1": "normalNiteL",
@@ -665,7 +665,7 @@
     },
     "天干地支弓・酉之飾": {
         "element2": "earth",
-        "en": "天干地支弓・酉之飾",
+        "en": "Gallinarius",
         "maxlv": 100,
         "skill2": "normalCriticalM",
         "skill1": "normalL",
@@ -681,7 +681,7 @@
     },
     "デルタ・クォーツ": {
         "element2": "fire",
-        "en": "デルタ・クォーツ",
+        "en": "Delta Quartz",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalSanteL",
@@ -765,7 +765,7 @@
     },
     "ネプテゥヌスの三叉鉾": {
         "element2": "water",
-        "en": "ネプテゥヌスの三叉鉾",
+        "en": "Neptune's Trident",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -797,7 +797,7 @@
     },
     "ゲイダーグ": {
         "element2": "earth",
-        "en": "Gae Dearg",
+        "en": "Gae Derg",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -847,7 +847,7 @@
     },
     "[絡繰弓]マシン・ボウ": {
         "element2": "earth",
-        "en": "[絡繰弓]マシン・ボウ",
+        "en": "Compound Gadget Bow",
         "maxlv": 100,
         "skill2": "strengthL",
         "skill1": "non",
@@ -863,7 +863,7 @@
     },
     "リユニオン": {
         "element2": "wind",
-        "en": "リユニオン",
+        "en": "Reunion",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -927,7 +927,7 @@
     },
     "[西風琴]西風の竪琴": {
         "element2": "wind",
-        "en": "[西風琴]西風の竪琴",
+        "en": "Harp of Westerly Winds",
         "maxlv": 100,
         "skill2": "strengthL",
         "skill1": "non",
@@ -976,7 +976,7 @@
     "[渦々斧]マルメテル・ハンマー": {
         "hplv100": "150",
         "element2": "earth",
-        "en": "[渦々斧]マルメテル・ハンマー",
+        "en": "[Skybound] Swirly Wurst Hammer",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "unknownL",
@@ -993,7 +993,7 @@
     },
     "マルメテル・ハンマー": {
         "element2": "earth",
-        "en": "マルメテル・ハンマー",
+        "en": "Swirly Wurst Hammer",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "unknownL",
@@ -1025,7 +1025,7 @@
     },
     "エリクトニオス": {
         "element2": "fire",
-        "en": "エリクトニオス",
+        "en": "Erichthonius",
         "maxlv": 100,
         "skill2": "normalSanteL",
         "skill1": "normalBoukunL",
@@ -1041,7 +1041,7 @@
     },
     "パラスの剣": {
         "element2": "fire",
-        "en": "パラスの剣",
+        "en": "Sword of Pallas",
         "maxlv": 100,
         "skill2": "normalHPM",
         "skill1": "normalL",
@@ -1057,7 +1057,7 @@
     },
     "シグルズの弓": {
         "element2": "water",
-        "en": "シグルズの弓",
+        "en": "Bow of Sigurd",
         "maxlv": 100,
         "skill2": "normalM",
         "skill1": "non",
@@ -1073,7 +1073,7 @@
     },
     "ヴィルヘルム": {
         "element2": "water",
-        "en": "ヴィルヘルム",
+        "en": "Wilhelm",
         "maxlv": 100,
         "skill2": "normalCriticalM",
         "skill1": "normalBoukunL",
@@ -1105,7 +1105,7 @@
     },
     "ソロモンドライブ": {
         "element2": "earth",
-        "en": "ソロモンドライブ",
+        "en": "Solomon's Axe",
         "maxlv": 100,
         "skill2": "normalHaisuiS",
         "skill1": "normalL",
@@ -1121,7 +1121,7 @@
     },
     "マイムールヴィジョン": {
         "element2": "earth",
-        "en": "マイムールヴィジョン",
+        "en": "Spymur's Vision",
         "maxlv": 100,
         "skill2": "normalKatsumiM",
         "skill1": "normalBoukunL",
@@ -1137,7 +1137,7 @@
     },
     "インドラリム": {
         "element2": "wind",
-        "en": "インドラリム",
+        "en": "Indra's Edge",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalSetsuna",
@@ -1185,7 +1185,7 @@
     },
     "ブラッディスカー": {
         "element2": "dark",
-        "en": "ブラッディスカー",
+        "en": "Bloody Scar",
         "maxlv": 100,
         "skill2": "normalS",
         "skill1": "normalCriticalL",
@@ -1201,7 +1201,7 @@
     },
     "グングニル": {
         "element2": "light",
-        "en": "グングニル",
+        "en": "Gungnir",
         "maxlv": 100,
         "skill2": "normalKatsumiM",
         "skill1": "normalM",
@@ -1217,7 +1217,7 @@
     },
     "スレイプニルシュー": {
         "element2": "light",
-        "en": "スレイプニルシュー",
+        "en": "Sleipnir Shoe",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHaisuiS",
@@ -1233,7 +1233,7 @@
     },
     "ブラック・アンド・ダークネス": {
         "element2": "dark",
-        "en": "ブラック・アンド・ダークネス",
+        "en": "Obscuritas",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -1249,7 +1249,7 @@
     },
     "サンダー・オブ・ファントム": {
         "element2": "dark",
-        "en": "サンダー・オブ・ファントム",
+        "en": "Phantasmas",
         "maxlv": 100,
         "skill2": "normalHPM",
         "skill1": "normalKatsumokuS",
@@ -1333,7 +1333,7 @@
     },
     "[龍戮]アスカロン": {
         "element2": "water",
-        "en": "Ascalon",
+        "en": "Ascalon (Premium)",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -1613,7 +1613,7 @@
     },
     "[聖刻]七星剣・真": {
         "element2": "light",
-        "en": "[Skybound] Seven Star Sword Sterling",
+        "en": "Seven Star Sword Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -1629,7 +1629,7 @@
     },
     "七星剣・属性変更": {
         "element2": "all",
-        "en": "七星剣・属性変更",
+        "en": "Seven-Star Sword Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -1645,7 +1645,7 @@
     },
     "七星剣・覚醒": {
         "element2": "all",
-        "en": "七星剣・覚醒",
+        "en": "Seven-Star Sword Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -1709,7 +1709,7 @@
     },
     "[極愛剣]バレンタインソード": {
         "element2": "light",
-        "en": "[Skybound] Valentine Sword",
+        "en": "Valentine Sword",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -1725,7 +1725,7 @@
     },
     "[真救天]スコフニュング": {
         "element2": "water",
-        "en": "[Skybound] Skofung",
+        "en": "Skofnung",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -1742,7 +1742,7 @@
     "[真救天]スコフニュング・属性変更": {
         "hplv100": "207",
         "element2": "all",
-        "en": "[真救天]スコフニュング・属性変更",
+        "en": "Skofnung (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -1759,7 +1759,7 @@
     },
     "[狂恋剣]ラスト・シン": {
         "element2": "water",
-        "en": "[Skybound] Lyst Sin",
+        "en": "Lyst Sin",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -1791,7 +1791,7 @@
     },
     "[炎奏華]ローエングリン": {
         "element2": "fire",
-        "en": "[Skybound] Lohengrin",
+        "en": "Lohengrin",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -1807,7 +1807,7 @@
     },
     "[始原霊]フェアーソード": {
         "element2": "fire",
-        "en": "[Skybound] Balanced Blade",
+        "en": "Balanced Blade",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -1823,7 +1823,7 @@
     },
     "ミュルグレス": {
         "element2": "water",
-        "en": "ミュルグレス",
+        "en": "Murgleis",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -1839,7 +1839,7 @@
     },
     "[古黒刃]ディープデザイア": {
         "element2": "dark",
-        "en": "[Skybound] Deep Desire",
+        "en": "Deep Desire",
         "maxlv": 100,
         "skill2": "normalHPL",
         "skill1": "normalL",
@@ -1855,7 +1855,7 @@
     },
     "[万断剣]大地の剣": {
         "element2": "earth",
-        "en": "[Skybound] Broadsword of Earth",
+        "en": "Broadsword of Earth",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -1871,7 +1871,7 @@
     },
     "[黒彩宝]オブシダンソード": {
         "element2": "dark",
-        "en": "[Skybound] Obsidian Sword",
+        "en": "Obsidian Sword",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -1984,7 +1984,7 @@
     "[真極閃]アシュケロン・属性変更": {
         "hplv100": "203",
         "element2": "all",
-        "en": "[真極閃]アシュケロン・属性変更",
+        "en": "Ascalon (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -2001,7 +2001,7 @@
     },
     "[巨豪剣]オールド・エッケザックス": {
         "element2": "fire",
-        "en": "[巨豪剣]オールド・エッケザックス",
+        "en": "Ancient Ecke Sachs",
         "maxlv": 100,
         "skill2": "magnaHaisuiS",
         "skill1": "magnaSetsuna",
@@ -2017,7 +2017,7 @@
     },
     "[巨豪剣]エッケザックス": {
         "element2": "fire",
-        "en": "[巨豪剣]エッケザックス",
+        "en": "Ecke Sachs",
         "maxlv": 100,
         "skill2": "normalHaisuiS",
         "skill1": "normalSetsuna",
@@ -2067,7 +2067,7 @@
     },
     "[哭牙]ショロトルリッパー": {
         "element2": "wind",
-        "en": "[Skybound] Short Ripper",
+        "en": "Xolotl Ripper",
         "maxlv": 100,
         "skill2": "normalCriticalS",
         "skill1": "normalM",
@@ -2133,7 +2133,7 @@
     },
     "ディスペアー": {
         "element2": "light",
-        "en": "ディスペアー",
+        "en": "Disparia",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -2215,7 +2215,7 @@
     },
     "アントウェルペン": {
         "element2": "fire",
-        "en": "アントウェルペン",
+        "en": "Antwerp",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -2331,7 +2331,7 @@
     },
     "[鳳凰刃]不死鳥の嘴刃": {
         "element2": "fire",
-        "en": "Phoenix Beakblade",
+        "en": "Pheonix Beakblade",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -2529,7 +2529,7 @@
     },
     "[悪戯]トリック・オア・トリート": {
         "element2": "fire",
-        "en": "[Skybound] Jack-O'-Brand",
+        "en": "Jack-O'-Brand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -2561,7 +2561,7 @@
     },
     "四天刃・属性変更": {
         "element2": "all",
-        "en": "四天刃・属性変更",
+        "en": "Four-Sky Blade Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -2577,7 +2577,7 @@
     },
     "四天刃・覚醒": {
         "element2": "all",
-        "en": "四天刃・覚醒",
+        "en": "Four-Sky Blade Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -2610,7 +2610,7 @@
     "[真兇影]イペタム・属性変更": {
         "hplv100": "224",
         "element2": "all",
-        "en": "[真兇影]イペタム・属性変更",
+        "en": "Ipetam (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -2644,7 +2644,7 @@
     "[真理創]ファウスト・属性変更": {
         "hplv100": "229",
         "element2": "all",
-        "en": "[真理創]ファウスト・属性変更",
+        "en": "Faust (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -2709,7 +2709,7 @@
     },
     "[久遠]エターナル・ラヴ": {
         "element2": "wind",
-        "en": "Eternal Love",
+        "en": "Love Eternal",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -2742,7 +2742,7 @@
     "[真闇葬]ミセリコルデ・属性変更": {
         "hplv100": "227",
         "element2": "all",
-        "en": "[真闇葬]ミセリコルデ・属性変更",
+        "en": "Misericorde (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -2841,7 +2841,7 @@
     },
     "デュアルヘリックス": {
         "element2": "dark",
-        "en": "Dual Helix",
+        "en": "Twin Helix",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -2857,7 +2857,7 @@
     },
     "[猛振]クレティネ": {
         "element2": "light",
-        "en": "[猛振]クレティネ",
+        "en": "Cletine",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalCriticalM",
@@ -2957,7 +2957,7 @@
     },
     "[幻逸]グランテピエ": {
         "element2": "light",
-        "en": "[幻逸]グランテピエ",
+        "en": "Turpin Spear",
         "maxlv": 100,
         "skill2": "normalHPL",
         "skill1": "normalHPL",
@@ -2990,7 +2990,7 @@
     "[氷冥槍]ウェルギリウス": {
         "hplv100": "205",
         "element2": "water",
-        "en": "[氷冥槍]ウェルギリウス",
+        "en": "[Skybound] Vergilius",
         "maxlv": 150,
         "skill2": "normalS",
         "skill1": "normalHPL",
@@ -3007,7 +3007,7 @@
     },
     "[密智槍]ネフティスフォーク": {
         "element2": "wind",
-        "en": "[密智槍]ネフティスフォーク",
+        "en": "Nephthys Fork",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3074,7 +3074,7 @@
     "[吼嵐槍]ティアマトグレイブ・マグナ": {
         "hplv100": "233",
         "element2": "wind",
-        "en": "[吼嵐槍]ティアマトグレイブ・マグナ",
+        "en": "[Skybound] Tiamat Glaive Omega",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "magnaHPL",
@@ -3091,7 +3091,7 @@
     },
     "[黎明]一伐槍": {
         "element2": "light",
-        "en": "[黎明]一伐槍",
+        "en": "One-Rift Spear",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3173,7 +3173,7 @@
     },
     "[聖守槍]ローゼンメイデン": {
         "element2": "dark",
-        "en": "Rozen Maiden",
+        "en": "Rosen Maiden",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3205,7 +3205,7 @@
     },
     "一伐槍・属性変更": {
         "element2": "all",
-        "en": "一伐槍・属性変更",
+        "en": "One-Rift Spear Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3221,7 +3221,7 @@
     },
     "一伐槍・覚醒": {
         "element2": "all",
-        "en": "一伐槍・覚醒",
+        "en": "One-Rift Spear Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3237,7 +3237,7 @@
     },
     "[未之刻]天干地支刀・未之飾": {
         "element2": "wind",
-        "en": "[未之刻]天干地支刀・未之飾",
+        "en": "Ramulus",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalHPL",
@@ -3253,7 +3253,7 @@
     },
     "[禍雷槍]雷神矛": {
         "element2": "light",
-        "en": "[禍雷槍]雷神矛",
+        "en": "Thunder God Spear",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3286,7 +3286,7 @@
     "[真尖軍]ロムルスの槍・属性変更": {
         "hplv100": "246",
         "element2": "all",
-        "en": "[真尖軍]ロムルスの槍・属性変更",
+        "en": "Romulus Spear (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -3335,7 +3335,7 @@
     },
     "[己焔槍]ルーン": {
         "element2": "fire",
-        "en": "[己焔槍]ルーン",
+        "en": "Luin",
         "maxlv": 100,
         "skill2": "normalHaisuiS",
         "skill1": "normalCriticalL",
@@ -3385,7 +3385,7 @@
     },
     "[真咢]竜槍": {
         "element2": "fire",
-        "en": "[真咢]竜槍",
+        "en": "Dragon Spear",
         "maxlv": 100,
         "skill2": "normalHPS",
         "skill1": "normalM",
@@ -3401,7 +3401,7 @@
     },
     "[慶賀槍]貫き門松": {
         "element2": "fire",
-        "en": "[慶賀槍]貫き門松",
+        "en": "New Year Kadomatsu Staff",
         "maxlv": 100,
         "skill2": "normalCriticalS",
         "skill1": "normalM",
@@ -3417,7 +3417,7 @@
     },
     "[錆骸槍]デスシンボル": {
         "element2": "water",
-        "en": "[錆骸槍]デスシンボル",
+        "en": "The Mark of Death",
         "maxlv": 100,
         "skill2": "normalHPS",
         "skill1": "normalM",
@@ -3467,7 +3467,7 @@
     },
     "オールド・ナラクーバラ": {
         "element2": "wind",
-        "en": "オールド・ナラクーバラ",
+        "en": "Ancient Nalakuvara",
         "maxlv": 100,
         "skill2": "magnaBoukun",
         "skill1": "non",
@@ -3483,7 +3483,7 @@
     },
     "ナラクーバラ": {
         "element2": "wind",
-        "en": "ナラクーバラ",
+        "en": "Nalakuvara",
         "maxlv": 100,
         "skill2": "normalBoukunL",
         "skill1": "non",
@@ -3517,7 +3517,7 @@
     },
     "[律導槍]ランス・オブ・コスモス": {
         "element2": "light",
-        "en": "Cosmic Spear",
+        "en": "Cosmic Lance",
         "maxlv": 100,
         "skill2": "cosmosAT",
         "skill1": "cosmos-spear",
@@ -3533,7 +3533,7 @@
     },
     "[狂闘]双竜槍": {
         "element2": "dark",
-        "en": "[狂闘]双竜槍",
+        "en": "Skyrend Spear",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3549,7 +3549,7 @@
     },
     "クリスタルルーン": {
         "element2": "light",
-        "en": "クリスタルルーン",
+        "en": "Crystal Luin",
         "maxlv": 100,
         "skill2": "normalHaisuiS",
         "skill1": "normalSanteL",
@@ -3667,7 +3667,7 @@
     },
     "[鳳凰斧]不死鳥の翼斧": {
         "element2": "fire",
-        "en": "[鳳凰斧]不死鳥の翼斧",
+        "en": "Pheonix Wing-Axe",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -3751,7 +3751,7 @@
     },
     "[蛇神斧]ミドガルドの裂斧": {
         "element2": "earth",
-        "en": "[蛇神斧]ミドガルドの裂斧",
+        "en": "Splitting Axe of Jormungand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3801,7 +3801,7 @@
     },
     "[百煌斧]ヘカトンケイレス": {
         "element2": "light",
-        "en": "[百煌斧]ヘカトンケイレス",
+        "en": "Hekatonkheles",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -3967,7 +3967,7 @@
     },
     "三寅斧・属性変更": {
         "element2": "all",
-        "en": "三寅斧・属性変更",
+        "en": "Three-Tiger Axe Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -3983,7 +3983,7 @@
     },
     "三寅斧・覚醒": {
         "element2": "all",
-        "en": "三寅斧・覚醒",
+        "en": "Three-Tiger Axe Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4016,7 +4016,7 @@
     "[真覇王]アヴェンジャー・属性変更": {
         "hplv100": "180",
         "element2": "all",
-        "en": "[真覇王]アヴェンジャー・属性変更",
+        "en": "Avenger (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -4049,7 +4049,7 @@
     },
     "[怪桃斧]アンノウンスタンプ": {
         "element2": "earth",
-        "en": "[怪桃斧]アンノウンスタンプ",
+        "en": "Mysterious Hatchet",
         "maxlv": 100,
         "skill2": "unknownHPM",
         "skill1": "unknownM",
@@ -4065,7 +4065,7 @@
     },
     "[輝影斧]ヴェセラゴハーケン": {
         "element2": "light",
-        "en": "[輝影斧]ヴェセラゴハーケン",
+        "en": "Veselago Piton",
         "maxlv": 100,
         "skill2": "normalHPS",
         "skill1": "normalM",
@@ -4115,7 +4115,7 @@
     },
     "[聖角斧]レインディアーホーン": {
         "element2": "earth",
-        "en": "Reindeer Horn",
+        "en": "Reindeer Horns",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4131,7 +4131,7 @@
     },
     "[葬奏斧]フライアウェイ": {
         "element2": "fire",
-        "en": "[葬奏斧]フライアウェイ",
+        "en": "Way Flyer",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4182,7 +4182,7 @@
     "[怪黒斧]ブラックアックス": {
         "hplv100": "150",
         "element2": "fire",
-        "en": "[怪黒斧]ブラックアックス",
+        "en": "[Skybound] Sombre Axe",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "unknownL",
@@ -4199,7 +4199,7 @@
     },
     "ブラックアックス": {
         "element2": "fire",
-        "en": "Black Axe",
+        "en": "Sombre Axe",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "unknownL",
@@ -4231,7 +4231,7 @@
     },
     "黒旋風": {
         "element2": "wind",
-        "en": "黒旋風",
+        "en": "Onyx Stormbringer",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4247,7 +4247,7 @@
     },
     "[勇猛]ブラビューラ": {
         "element2": "earth",
-        "en": "[勇猛]ブラビューラ",
+        "en": "Mettle",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4331,7 +4331,7 @@
     },
     "[輝杖]稜鏡の鎚杖": {
         "element2": "light",
-        "en": "[輝杖]稜鏡の鎚杖",
+        "en": "Prismatic Mace",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -4347,7 +4347,7 @@
     },
     "氷晶杖": {
         "element2": "water",
-        "en": "氷晶杖",
+        "en": "Ice Crystal Staff",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -4364,7 +4364,7 @@
     "[春呼杖]氷晶杖": {
         "hplv100": "280",
         "element2": "water",
-        "en": "[春呼杖]氷晶杖",
+        "en": "[Skybound] Ice Crystal Staff",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -4381,7 +4381,7 @@
     },
     "封鍵クラウストルム": {
         "element2": "light",
-        "en": "Sealed Clausterum",
+        "en": "Sealed Claustrum",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4531,7 +4531,7 @@
     },
     "[怪緑杖]アンノウンワンド": {
         "element2": "wind",
-        "en": "[怪緑杖]アンノウンワンド",
+        "en": "[Skybound] Mysterious Wand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "unknownHPL",
@@ -4547,7 +4547,7 @@
     },
     "[守約]プロミス": {
         "element2": "wind",
-        "en": "[守約]プロミス",
+        "en": "Promise",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4579,7 +4579,7 @@
     },
     "[古尊杖]バビロンの導杖": {
         "element2": "earth",
-        "en": "[古尊杖]バビロンの導杖",
+        "en": "Babylon Staff",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4611,7 +4611,7 @@
     },
     "五神杖・属性変更": {
         "element2": "all",
-        "en": "五神杖・属性変更",
+        "en": "Five-Soul Staff Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4627,7 +4627,7 @@
     },
     "五神杖・覚醒": {
         "element2": "all",
-        "en": "五神杖・覚醒",
+        "en": "Five-Soul Staff Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4643,7 +4643,7 @@
     },
     "[極愛杖]バレンタインワンド": {
         "element2": "dark",
-        "en": "[極愛杖]バレンタインワンド",
+        "en": "Valentine Wand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4659,7 +4659,7 @@
     },
     "[真聖紋]ニルヴァーナ": {
         "element2": "light",
-        "en": "[Skybound] Nirvana",
+        "en": "Nirvana",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4676,7 +4676,7 @@
     "[真聖紋]ニルヴァーナ・属性変更": {
         "hplv100": "274",
         "element2": "all",
-        "en": "[真聖紋]ニルヴァーナ・属性変更",
+        "en": "Nirvana (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -4693,7 +4693,7 @@
     },
     "[真頴悟]ケラウノス": {
         "element2": "earth",
-        "en": "[Skybound] Keraunos",
+        "en": "Keraunos",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4710,7 +4710,7 @@
     "[真頴悟]ケラウノス・属性変更": {
         "hplv100": "231",
         "element2": "all",
-        "en": "[真頴悟]ケラウノス・属性変更",
+        "en": "Keraunos (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -4727,7 +4727,7 @@
     },
     "[狂輝杖]マギ・リアリジスセプター": {
         "element2": "light",
-        "en": "[狂輝杖]マギ・リアリジスセプター",
+        "en": "Magus Scepter",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -4759,7 +4759,7 @@
     },
     "[不叶夢]カーラウロプス": {
         "element2": "earth",
-        "en": "[不叶夢]カーラウロプス",
+        "en": "Kalaurops",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -4775,7 +4775,7 @@
     },
     "[福鸚鵡]ゴトルベルケーン": {
         "element2": "light",
-        "en": "[福鸚鵡]ゴトルベルケーン",
+        "en": "Gotle Bell Cane",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4791,7 +4791,7 @@
     },
     "[灼劫]セプティアンバーナー": {
         "element2": "fire",
-        "en": "[Skybound] Septian Burner",
+        "en": "Septian Burner",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4807,7 +4807,7 @@
     },
     "[青緑導]ハイロイヤルポール": {
         "element2": "wind",
-        "en": "[青緑導]ハイロイヤルポール",
+        "en": "Majestic Royal Pole",
         "maxlv": 100,
         "skill2": "normalHPS",
         "skill1": "normalM",
@@ -4839,7 +4839,7 @@
     },
     "[魔封杖]ガンバンテイン": {
         "element2": "light",
-        "en": "[魔封杖]ガンバンテイン",
+        "en": "Gambanteinn",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -4855,7 +4855,7 @@
     },
     "[聖祝杖]クリスマスワンド": {
         "element2": "earth",
-        "en": "[Skybound] Holiday Wand",
+        "en": "Holiday Wand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4905,7 +4905,7 @@
     },
     "[真叡偉]カピラヴァストゥ": {
         "element2": "water",
-        "en": "[Skybound] Kapilavastu",
+        "en": "Kapilavastu",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -4922,7 +4922,7 @@
     "[真叡偉]カピラヴァストゥ・属性変更": {
         "hplv100": "276",
         "element2": "all",
-        "en": "[真叡偉]カピラヴァストゥ・属性変更",
+        "en": "Kapilavastu (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -4939,7 +4939,7 @@
     },
     "リング・オブ・サン": {
         "element2": "fire",
-        "en": "リング・オブ・サン",
+        "en": "Starblaze Rings",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHaisuiL",
@@ -4989,7 +4989,7 @@
     },
     "マグマストリーム": {
         "element2": "fire",
-        "en": "マグマストリーム",
+        "en": "Magma Rush",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -5005,7 +5005,7 @@
     },
     "[聖白]ホワイトウイング": {
         "element2": "wind",
-        "en": "[聖白]ホワイトウイング",
+        "en": "Wing of the Pure",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalCriticalL",
@@ -5021,7 +5021,7 @@
     },
     "[夜雫典]夢見の書": {
         "element2": "water",
-        "en": "[Skybound] Dream Atlas",
+        "en": "Dream Atlas",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5037,7 +5037,7 @@
     },
     "[譜奏律]フォニックロッド": {
         "element2": "light",
-        "en": "[譜奏律]フォニックロッド",
+        "en": "Fonic Rod",
         "maxlv": 100,
         "skill2": "strengthS",
         "skill1": "strengthHaisuiM",
@@ -5053,7 +5053,7 @@
     },
     "[遥竜杖]ウィーブルロッド": {
         "element2": "dark",
-        "en": "[遥竜杖]ウィーブルロッド",
+        "en": "Guivre Rod",
         "maxlv": 100,
         "skill2": "unknownOtherNiteS",
         "skill1": "unknownOtherBoukunL",
@@ -5069,7 +5069,7 @@
     },
     "白虎牙杖": {
         "element2": "earth",
-        "en": "白虎牙杖",
+        "en": "Baihu Fangstaff",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -5086,7 +5086,7 @@
     "[猛咬喰]白虎牙杖": {
         "hplv100": "225",
         "element2": "earth",
-        "en": "[猛咬喰]白虎牙杖",
+        "en": "[Skybound] Baihu Fangstaff",
         "maxlv": 150,
         "skill2": "normalL",
         "skill1": "non",
@@ -5120,7 +5120,7 @@
     "[鋼吼]ガストラフェテス": {
         "hplv100": "187",
         "element2": "earth",
-        "en": "[鋼吼]ガストラフェテス",
+        "en": "[Skybound] Gastraphetes",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "normalLL",
@@ -5154,7 +5154,7 @@
     "[狂麗砲]グラッドアイ": {
         "hplv100": "180",
         "element2": "fire",
-        "en": "[狂麗砲]グラッドアイ",
+        "en": "[Skybound] Bird Eye",
         "maxlv": 150,
         "skill2": "normalNiteM",
         "skill1": "normalLL",
@@ -5188,7 +5188,7 @@
     "[裁考筒]裁きの鳴雷": {
         "hplv100": "145",
         "element2": "earth",
-        "en": "[裁考筒]裁きの鳴雷",
+        "en": "[Skybound] Tribunal Thunder",
         "maxlv": 150,
         "skill2": "normalHPS",
         "skill1": "normalL",
@@ -5205,7 +5205,7 @@
     },
     "[絢爛]ジュエルリゾートモデル": {
         "element2": "wind",
-        "en": "[絢爛]ジュエルリゾートモデル",
+        "en": "Jewel Modele",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalCriticalL",
@@ -5337,7 +5337,7 @@
     },
     "十狼雷・属性変更": {
         "element2": "all",
-        "en": "十狼雷・属性変更",
+        "en": "Ten-Wolf Gun Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5353,7 +5353,7 @@
     },
     "十狼雷・覚醒": {
         "element2": "all",
-        "en": "十狼雷・覚醒",
+        "en": "Ten-Wolf Gun Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5369,7 +5369,7 @@
     },
     "[真奪撃]オリバー": {
         "element2": "wind",
-        "en": "[Skybound] Oliver",
+        "en": "Oliver",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -5386,7 +5386,7 @@
     "[真奪撃]オリバー・属性変更": {
         "hplv100": "170",
         "element2": "all",
-        "en": "[真奪撃]オリバー・属性変更",
+        "en": "Oliver (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -5419,7 +5419,7 @@
     },
     "[撒旋流]ヴリスラグナ": {
         "element2": "light",
-        "en": "[撒旋流]ヴリスラグナ",
+        "en": "Vlisragna",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -5435,7 +5435,7 @@
     },
     "[蒼導銃]ベネディーア": {
         "element2": "fire",
-        "en": "[蒼導銃]ベネディーア",
+        "en": "Benedia",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -5485,7 +5485,7 @@
     },
     "[厳彗銃]ストラトゥムバンカー": {
         "element2": "earth",
-        "en": "[厳彗銃]ストラトゥムバンカー",
+        "en": "Stratomizer",
         "maxlv": 100,
         "skill2": "normalS",
         "skill1": "normalHaisuiL",
@@ -5501,7 +5501,7 @@
     },
     "[真鋭撃]ネブカドネザル": {
         "element2": "dark",
-        "en": "[真鋭撃]ネブカドネザル",
+        "en": "Nebuchad",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -5518,7 +5518,7 @@
     "[真鋭撃]ネブカドネザル・属性変更": {
         "hplv100": "167",
         "element2": "all",
-        "en": "[真鋭撃]ネブカドネザル・属性変更",
+        "en": "Nebuchad (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -5535,7 +5535,7 @@
     },
     "[連装弾]エーケイ・フォーエイ": {
         "element2": "earth",
-        "en": "[連装弾]エーケイ・フォーエイ",
+        "en": "AK-4A",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalLL",
@@ -5552,7 +5552,7 @@
     "[祖龍銃]バハムートマズル・フツルス": {
         "hplv100": "171",
         "element2": "dark",
-        "en": "[祖龍銃]バハムートマズル・フツルス",
+        "en": "Pistol of Bahamut Coda",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "bahaFUATHP-gun",
@@ -5569,7 +5569,7 @@
     },
     "[律導銃]ガン・オブ・コスモス": {
         "element2": "light",
-        "en": "Cosmic Gun",
+        "en": "Cosmic Rifle",
         "maxlv": 100,
         "skill2": "cosmosAT",
         "skill1": "cosmos-gun",
@@ -5585,7 +5585,7 @@
     },
     "[聖弾]ラファエル": {
         "element2": "light",
-        "en": "[聖弾]ラファエル",
+        "en": "Raphael",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -5601,7 +5601,7 @@
     },
     "[鋼電発射装置]ギガントアームズ": {
         "element2": "dark",
-        "en": "[鋼電発射装置]ギガントアームズ",
+        "en": "Gigante Launcher",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5617,7 +5617,7 @@
     },
     "[滅爆]メテオラ": {
         "element2": "water",
-        "en": "[滅爆]メテオラ",
+        "en": "Meteora",
         "maxlv": 100,
         "skill2": "normalHaisuiS",
         "skill1": "normalL",
@@ -5667,7 +5667,7 @@
     },
     "獅子王戦拳": {
         "element2": "light",
-        "en": "獅子王戦拳",
+        "en": "Lion Khan Claw",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5684,7 +5684,7 @@
     "[闘頂]獅子王戦拳": {
         "hplv100": "250",
         "element2": "light",
-        "en": "[闘頂]獅子王戦拳",
+        "en": "[Skybound] Lion Khan Claw",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "normalLL",
@@ -5735,7 +5735,7 @@
     },
     "[水恵拳]マナウィダンガントレ": {
         "element2": "water",
-        "en": "[水恵拳]マナウィダンガントレ",
+        "en": "Manawydan Gauntlet",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -5835,7 +5835,7 @@
     },
     "紅陽扇": {
         "element2": "light",
-        "en": "紅陽扇",
+        "en": "Sunset Fan",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -5852,7 +5852,7 @@
     "[天煽]紅陽扇": {
         "hplv100": "200",
         "element2": "light",
-        "en": "[天煽]紅陽扇",
+        "en": "[Skybound] Sunset Fan",
         "maxlv": 150,
         "skill2": "normalS",
         "skill1": "normalHPL",
@@ -5885,7 +5885,7 @@
     },
     "六崩拳・属性変更": {
         "element2": "all",
-        "en": "六崩拳・属性変更",
+        "en": "Six-Ruin Fist Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5901,7 +5901,7 @@
     },
     "六崩拳・覚醒": {
         "element2": "all",
-        "en": "六崩拳・覚醒",
+        "en": "Six-Ruin Fist Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -5917,7 +5917,7 @@
     },
     "[真闘神]鬼神の籠手": {
         "element2": "fire",
-        "en": "[真闘神]鬼神の籠手",
+        "en": "Hellion Gauntlet",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -5934,7 +5934,7 @@
     "[真闘神]鬼神の籠手・属性変更": {
         "hplv100": "235",
         "element2": "all",
-        "en": "[真闘神]鬼神の籠手・属性変更",
+        "en": "Hellion Gauntlet (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -5967,7 +5967,7 @@
     },
     "[雅氷嵐]緋舞扇": {
         "element2": "fire",
-        "en": "[雅氷嵐]緋舞扇",
+        "en": "Scarlet Vane",
         "maxlv": 100,
         "skill2": "normalHPL",
         "skill1": "normalL",
@@ -5983,7 +5983,7 @@
     },
     "[渇欲拳]マモーナスグローブ": {
         "element2": "wind",
-        "en": "[渇欲拳]マモーナスグローブ",
+        "en": "Mammon Glove",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -5999,7 +5999,7 @@
     },
     "[鋼電拳]ギガントナックル": {
         "element2": "light",
-        "en": "[鋼電拳]ギガントナックル",
+        "en": "Gigante Fist",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -6015,7 +6015,7 @@
     },
     "[赫獅子]リスレット": {
         "element2": "light",
-        "en": "[赫獅子]リスレット",
+        "en": "Gauntlets",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -6031,7 +6031,7 @@
     },
     "[破天華]梵天添甲": {
         "element2": "fire",
-        "en": "[破天華]梵天添甲",
+        "en": "Brahma Gauntlet",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -6081,7 +6081,7 @@
     },
     "[超闘]ストリートファイト": {
         "element2": "water",
-        "en": "[超闘]ストリートファイト",
+        "en": "Street Weapon",
         "maxlv": 100,
         "skill2": "strengthL",
         "skill1": "non",
@@ -6097,7 +6097,7 @@
     },
     "[紅殻]シザーハンズ": {
         "element2": "dark",
-        "en": "[紅殻]シザーハンズ",
+        "en": "Scissorhands",
         "maxlv": 100,
         "skill2": "normalHPS",
         "skill1": "normalM",
@@ -6113,7 +6113,7 @@
     },
     "オールド・オベロン": {
         "element2": "water",
-        "en": "オールド・オベロン",
+        "en": "Ancient Auberon",
         "maxlv": 100,
         "skill2": "magnaKatsumiM",
         "skill1": "magnaKamui",
@@ -6129,7 +6129,7 @@
     },
     "オベロン": {
         "element2": "water",
-        "en": "オベロン",
+        "en": "Auberon",
         "maxlv": 100,
         "skill2": "normalKatsumiM",
         "skill1": "normalKamui",
@@ -6213,7 +6213,7 @@
     },
     "[蠱毒]毒手": {
         "element2": "earth",
-        "en": "[蠱毒]毒手",
+        "en": "Poison Hand",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "strengthL",
@@ -6229,7 +6229,7 @@
     },
     "マグマガントレット": {
         "element2": "fire",
-        "en": "マグマガントレット",
+        "en": "Magma Gauntlet",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -6245,7 +6245,7 @@
     },
     "エンシェントバンテージ": {
         "element2": "earth",
-        "en": "エンシェントバンテージ",
+        "en": "Ancient Bandages",
         "maxlv": 100,
         "skill2": "normalNiteS",
         "skill1": "normalHaisuiL",
@@ -6295,7 +6295,7 @@
     },
     "リボン": {
         "element2": "dark",
-        "en": "リボン",
+        "en": "Cute Ribbon",
         "maxlv": 100,
         "skill2": "normalS",
         "skill1": "normalHaisuiL",
@@ -6581,7 +6581,7 @@
     },
     "サジタリウスボウ": {
         "element2": "wind",
-        "en": "Saggitarius Bow",
+        "en": "Sagittarius Bow",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -6598,7 +6598,7 @@
     "[星鎧弓]サジタリウスボウ": {
         "hplv100": "183",
         "element2": "wind",
-        "en": "[Skybound] Saggitarius Bow",
+        "en": "[Skybound] Sagittarius Bow",
         "maxlv": 150,
         "skill2": "normalS",
         "skill1": "normalHPL",
@@ -6631,7 +6631,7 @@
     },
     "二王弓・属性変更": {
         "element2": "all",
-        "en": "二王弓・属性変更",
+        "en": "Two-Crown Bow Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -6647,7 +6647,7 @@
     },
     "二王弓・覚醒": {
         "element2": "all",
-        "en": "二王弓・覚醒",
+        "en": "Two-Crown Bow Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -6680,7 +6680,7 @@
     "[真獄殲]ローゼンボーゲン・属性変更": {
         "hplv100": "217",
         "element2": "all",
-        "en": "[真獄殲]ローゼンボーゲン・属性変更",
+        "en": "Rosenbogen (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -6713,7 +6713,7 @@
     },
     "[英雄弓]ヒロイックボウ": {
         "element2": "wind",
-        "en": "[英雄弓]ヒロイックボウ",
+        "en": "Heroic Bow",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -6729,7 +6729,7 @@
     },
     "[輝妖弓]ピンク・エーテリアル": {
         "element2": "fire",
-        "en": "[輝妖弓]ピンク・エーテリアル",
+        "en": "Roseate Aetherial Bow",
         "maxlv": 100,
         "skill2": "normalNiteM",
         "skill1": "normalM",
@@ -6795,7 +6795,7 @@
     },
     "[律導弓]アロー・オブ・コスモス": {
         "element2": "light",
-        "en": "[律導弓]アロー・オブ・コスモス",
+        "en": "Cosmic Bow",
         "maxlv": 100,
         "skill2": "cosmosAT",
         "skill1": "cosmos-bow",
@@ -6811,7 +6811,7 @@
     },
     "扇抜": {
         "element2": "water",
-        "en": "扇抜",
+        "en": "Dark Thrasher",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -6929,7 +6929,7 @@
     },
     "[水響]オーシャンハープ": {
         "element2": "water",
-        "en": "[水響]オーシャンハープ",
+        "en": "Ocean Harp",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -6977,7 +6977,7 @@
     },
     "九界琴・属性変更": {
         "element2": "all",
-        "en": "九界琴・属性変更",
+        "en": "Nine-Realm Harp Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -6993,7 +6993,7 @@
     },
     "九界琴・覚醒": {
         "element2": "all",
-        "en": "九界琴・覚醒",
+        "en": "Nine-Realm Harp Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -7025,7 +7025,7 @@
     },
     "[愁歎奏]ブランウェンハープ": {
         "element2": "water",
-        "en": "[愁歎奏]ブランウェンハープ",
+        "en": "Branwen Harp",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -7041,7 +7041,7 @@
     },
     "[真奏宴]ランゲレイク": {
         "element2": "water",
-        "en": "[真奏宴]ランゲレイク",
+        "en": "Langeleik",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7058,7 +7058,7 @@
     "[真奏宴]ランゲレイク・属性変更": {
         "hplv100": "232",
         "element2": "all",
-        "en": "[真奏宴]ランゲレイク・属性変更",
+        "en": "Langeleik (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -7091,7 +7091,7 @@
     },
     "[真理焔]メビウス": {
         "element2": "earth",
-        "en": "[真理焔]メビウス",
+        "en": "Mobius Strip",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -7107,7 +7107,7 @@
     },
     "[伝継琴]エスカラスハープ": {
         "element2": "fire",
-        "en": "[伝継琴]エスカラスハープ",
+        "en": "Escalus Harp",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -7123,7 +7123,7 @@
     },
     "[風妖唄]アネモイの銀琴": {
         "element2": "wind",
-        "en": "[風妖唄]アネモイの銀琴",
+        "en": "Anemoi Silver Lyre",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7139,7 +7139,7 @@
     },
     "[煌律]神授のリラ": {
         "element2": "fire",
-        "en": "[煌律]神授のリラ",
+        "en": "Cords of Heaven Lillah",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -7155,7 +7155,7 @@
     },
     "[瑞翠鈴]カエールベル": {
         "element2": "wind",
-        "en": "[瑞翠鈴]カエールベル",
+        "en": "Froggly Bell",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "unknownL",
@@ -7171,7 +7171,7 @@
     },
     "[魅晶]メロディックスフィア": {
         "element2": "light",
-        "en": "[魅晶]メロディックスフィア",
+        "en": "Melodic Sphere",
         "maxlv": 100,
         "skill2": "normalHPL",
         "skill1": "normalHPL",
@@ -7187,7 +7187,7 @@
     },
     "[凍真理]スノウリィメビウス": {
         "element2": "earth",
-        "en": "[凍真理]スノウリィメビウス",
+        "en": "Snowy Mobius Strip",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -7253,7 +7253,7 @@
     },
     "[律導琴]ハープ・オブ・コスモス": {
         "element2": "light",
-        "en": "[Skybound] Cosmic Harp",
+        "en": "Cosmic Harp",
         "maxlv": 100,
         "skill2": "cosmosAT",
         "skill1": "cosmos-music",
@@ -7269,7 +7269,7 @@
     },
     "[黄金花]ゴールデンブロッサム": {
         "element2": "light",
-        "en": "[黄金花]ゴールデンブロッサム",
+        "en": "Golden Blossom",
         "maxlv": 100,
         "skill2": "normalHPS",
         "skill1": "normalM",
@@ -7302,7 +7302,7 @@
     "[凰哭琴]朱雀翼弦": {
         "hplv100": "186",
         "element2": "fire",
-        "en": "[凰哭琴]朱雀翼弦",
+        "en": "[Skybound] Zhuque Lyrewings",
         "maxlv": 150,
         "skill2": "normalL",
         "skill1": "gurenJuin",
@@ -7353,7 +7353,7 @@
     },
     "[神宝]丙子椒林剣": {
         "element2": "wind",
-        "en": "[神宝]丙子椒林剣",
+        "en": "Venustas",
         "maxlv": 100,
         "skill2": "normalL",
         "skill1": "normalL",
@@ -7403,7 +7403,7 @@
     },
     "[真鍛心]天叢雲剣": {
         "element2": "light",
-        "en": "[真鍛心]天叢雲剣",
+        "en": "Murakumo",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7420,7 +7420,7 @@
     "[真鍛心]天叢雲剣・属性変更": {
         "hplv100": "179",
         "element2": "all",
-        "en": "[真鍛心]天叢雲剣・属性変更",
+        "en": "Murakumo (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -7437,7 +7437,7 @@
     },
     "[真悪呪]千子村正": {
         "element2": "dark",
-        "en": "[真悪呪]千子村正",
+        "en": "Muramasa",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7454,7 +7454,7 @@
     "[真悪呪]千子村正・属性変更": {
         "hplv100": "175",
         "element2": "all",
-        "en": "[真悪呪]千子村正・属性変更",
+        "en": "Muramasa (Element Changed)",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "non",
@@ -7503,7 +7503,7 @@
     },
     "八命切・属性変更": {
         "element2": "all",
-        "en": "八命切・属性変更",
+        "en": "Eight-Life Katana Sterling (Element Changed)",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -7519,7 +7519,7 @@
     },
     "八命切・覚醒": {
         "element2": "all",
-        "en": "八命切・覚醒",
+        "en": "Eight-Life Katana Sterling",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -7568,7 +7568,7 @@
     "[桜閃]薄緑": {
         "hplv100": "187",
         "element2": "wind",
-        "en": "[桜閃]薄緑",
+        "en": "[Skybound] Thalassinus",
         "maxlv": 150,
         "skill2": "normalHPM",
         "skill1": "normalLL",
@@ -7633,7 +7633,7 @@
     },
     "[初魄]三日月": {
         "element2": "dark",
-        "en": "[Skybound] Mikazuki",
+        "en": "Mikazuki",
         "maxlv": 100,
         "skill2": "normalCriticalS",
         "skill1": "normalHaisuiL",
@@ -7750,7 +7750,7 @@
     "バハムートブレイド・フツルス": {
         "hplv100": "179",
         "element2": "dark",
-        "en": "バハムートブレイド・フツルス",
+        "en": "Blade of Bahamut Coda",
         "maxlv": 150,
         "skill2": "non",
         "skill1": "bahaFUHP-katana",
@@ -7767,7 +7767,7 @@
     },
     "[律導刀]ブレイド・オブ・コスモス": {
         "element2": "light",
-        "en": "[律導刀]ブレイド・オブ・コスモス",
+        "en": "Cosmic Blade",
         "maxlv": 100,
         "skill2": "cosmosAT",
         "skill1": "cosmos-katana",
@@ -7783,7 +7783,7 @@
     },
     "剣聖の袋竹刀": {
         "element2": "earth",
-        "en": "剣聖の袋竹刀",
+        "en": "Master Bamboo Sword",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalHPL",
@@ -7831,7 +7831,7 @@
     },
     "[無人刀]木太刀": {
         "element2": "earth",
-        "en": "[無人刀]木太刀",
+        "en": "Wood Sword",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -7847,7 +7847,7 @@
     },
     "[聖王剣]エクスカリバー": {
         "element2": "fire",
-        "en": "[聖王剣]エクスカリバー",
+        "en": "Excalibur",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7863,7 +7863,7 @@
     },
     "[秘劫刃]ダマスカスナイフ": {
         "element2": "fire",
-        "en": "[秘劫刃]ダマスカスナイフ",
+        "en": "Damascus Knife",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7879,7 +7879,7 @@
     },
     "[覇滅槍]ゲイボルグ": {
         "element2": "fire",
-        "en": "[覇滅槍]ゲイボルグ",
+        "en": "Gae Bulg",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7895,7 +7895,7 @@
     },
     "ミョルニル": {
         "element2": "fire",
-        "en": "ミョルニル",
+        "en": "Mjolnir",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalL",
@@ -7911,7 +7911,7 @@
     },
     "[蛇天導]カドゥケウス": {
         "element2": "fire",
-        "en": "[蛇天導]カドゥケウス",
+        "en": "Caduceus",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalKamui",
@@ -7927,7 +7927,7 @@
     },
     "フライクーゲル": {
         "element2": "fire",
-        "en": "フライクーゲル",
+        "en": "Freikugel",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalBoukunL",
@@ -7943,7 +7943,7 @@
     },
     "方天画戟": {
         "element2": "fire",
-        "en": "方天画戟",
+        "en": "Sky Piercer",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "non",
@@ -7959,7 +7959,7 @@
     },
     "ヘラクレス": {
         "element2": "fire",
-        "en": "ヘラクレス",
+        "en": "Hercules",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalKatsumiM",
@@ -7975,7 +7975,7 @@
     },
     "[華薫琴]ウルリクムミ": {
         "element2": "fire",
-        "en": "[華薫琴]ウルリクムミ",
+        "en": "Ullikummi",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalKatsumokuS",
@@ -7991,7 +7991,7 @@
     },
     "[八頸斬]天羽々斬": {
         "element2": "fire",
-        "en": "[八頸斬]天羽々斬",
+        "en": "Ameno Habakiri",
         "maxlv": 100,
         "skill2": "non",
         "skill1": "normalSetsuna",
